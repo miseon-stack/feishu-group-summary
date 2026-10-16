@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 抓取产物（含群聊内容，通常不应提交）
+lark-research/
+*_messages.json
+*_transcript.txt
+*_assets.md
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
+*.swp
